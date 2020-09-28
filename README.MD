@@ -34,7 +34,7 @@ Node(v12.18)
 
 5)  ### Populate the sample data
 
-    Once you have applied the migration , start the app
+    Populate the sample data using
 
     ```sh
     $ npm run seed
@@ -42,7 +42,7 @@ Node(v12.18)
     
 6)  ### Start The APP
 
-    Once you have applied the migration , start the app. Go to [localhost:3000](localhost:3000) (port can be set in the .env file)
+    Once the sample data is generated, start the app. Go to [localhost:3000](localhost:3000) (port can be set in the .env file)
 
     ```sh
     $ npm start
