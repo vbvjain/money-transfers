@@ -13,4 +13,4 @@ mongoose
         retryWrites:false
     })
     .then(() => console.log("Successfully connect to MongoDB."))
-    .catch(err => console.error("Connection error", err));
+    .catch(err => console.error("Database Connection error", err));

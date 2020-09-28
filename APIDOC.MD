@@ -28,7 +28,7 @@ Generic response in case of some error is going to be:
     {
         "fromAccountId": 275371,
         "toAccountId": 873194,
-        "amount": 1000,
+        "amount": 1000
     }
 
 **Success Response JSON**:

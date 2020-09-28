@@ -26,7 +26,10 @@ Node(v12.18)
     $ npm install
     ```
 
-4.  Update Configuration Values in .env file with currect DB Config(provided in the email)
+4.  Create .env file using .env.example template and update configuration values in .env file with currect DB Config(provided in the email)
+    ```sh
+    $ cp .env.example .env
+    ```
 
 
 5)  ### Populate the sample data
