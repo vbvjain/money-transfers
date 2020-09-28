@@ -37,7 +37,7 @@ Node(v12.18)
     Once you have applied the migration , start the app
 
     ```sh
-    $ npm seed
+    $ npm run seed
     ```
     
 6)  ### Start The APP
